@@ -1,0 +1,376 @@
+{
+  "CURRENCY": {
+    "BTC": "BTC",
+    "ETH": "ETH",
+    "LTC": "LTC",
+    "XRP": "XRP",
+    "BCH": "BCH",
+    "EOS": "EOS",
+    "ETC": "ETC",
+    "NEO": "NEO",
+    "BTG": "BTG",
+    "XMR": "XMR",
+    "DASH": "DASH",
+    "ZEC": "ZEC",
+    "USD": "USD"
+  },
+  "SYMBOL_CCY_MAP": {
+    "BTCUSD": {
+      "base_currency": "BTC",
+      "quote_currency": "USD"
+    },
+    "BTCJPY": {
+      "base_currency": "BTC",
+      "quote_currency": "JPY"
+    },
+    "DASHUSD": {
+      "base_currency": "DASH",
+      "quote_currency": "USD"
+    },
+    "BTCBCH": {
+      "base_currency": "BTC",
+      "quote_currency": "BCH"
+    },
+    "EOSUSD": {
+      "base_currency": "EOS",
+      "quote_currency": "USD"
+    },
+    "EOSBTC": {
+      "base_currency": "EOS",
+      "quote_currency": "BTC"
+    },
+    "EOSBCH": {
+      "base_currency": "EOS",
+      "quote_currency": "BCH"
+    },
+    "XRPUSD": {
+      "base_currency": "XRP",
+      "quote_currency": "USD"
+    },
+    "XRPBCH": {
+      "base_currency": "XRP",
+      "quote_currency": "BCH"
+    },
+    "XRPBTC": {
+      "base_currency": "XRP",
+      "quote_currency": "BTC"
+    },
+    "ETHUSD": {
+      "base_currency": "ETH",
+      "quote_currency": "USD"
+    },
+    "BTGUSD": {
+      "base_currency": "BTG",
+      "quote_currency": "USD"
+    },
+    "LTCUSD": {
+      "base_currency": "LTC",
+      "quote_currency": "USD"
+    },
+    "LTCBTC": {
+      "base_currency": "LTC",
+      "quote_currency": "BTC"
+    },
+    "LTCBCH": {
+      "base_currency": "LTC",
+      "quote_currency": "BCH"
+    },
+    "BCHUSD": {
+      "base_currency": "BCH",
+      "quote_currency": "USD"
+    },
+    "ETCUSD": {
+      "base_currency": "ETC",
+      "quote_currency": "USD"
+    },
+    "ETCBTC": {
+      "base_currency": "ETC",
+      "quote_currency": "BTC"
+    },
+    "ETCBCH": {
+      "base_currency": "ETC",
+      "quote_currency": "BCH"
+    },
+    "NEOUSD": {
+      "base_currency": "NEO",
+      "quote_currency": "USD"
+    },
+    "ZECUSD": {
+      "base_currency": "ZEC",
+      "quote_currency": "USD"
+    },
+    "XMRUSD": {
+      "base_currency": "XMR",
+      "quote_currency": "USD"
+    },
+    "CETUSD": {
+      "base_currency": "CET",
+      "quote_currency": "USD"
+    },
+    "ETHBTC": {
+      "base_currency": "ETH",
+      "quote_currency": "BTC"
+    },
+    "BCHBTC": {
+      "base_currency": "BCH",
+      "quote_currency": "BTC"
+    },
+    "ETHBCH": {
+      "base_currency": "ETH",
+      "quote_currency": "BCH"
+    },
+    "ZECBCH": {
+      "base_currency": "ZEC",
+      "quote_currency": "BCH"
+    },
+    "ZECBTC": {
+      "base_currency": "ZEC",
+      "quote_currency": "BTC"
+    },
+    "XMRBCH": {
+      "base_currency": "XMR",
+      "quote_currency": "BCH"
+    },
+    "XMRBTC": {
+      "base_currency": "XMR",
+      "quote_currency": "BTC"
+    },
+    "DASHBCH": {
+      "base_currency": "DASH",
+      "quote_currency": "BCH"
+    },
+    "DASHBTC": {
+      "base_currency": "DASH",
+      "quote_currency": "BTC"
+    },
+    "NEOBTC": {
+      "base_currency": "NEO",
+      "quote_currency": "BTC"
+    },
+    "NEOBCH": {
+      "base_currency": "NEO",
+      "quote_currency": "BCH"
+    },
+    "CARDETH": {
+      "base_currency": "CARD",
+      "quote_currency": "ETH"
+    },
+    "BTMETH": {
+      "base_currency": "BTM",
+      "quote_currency": "ETH"
+    },
+    "VETETH": {
+      "base_currency": "VET",
+      "quote_currency": "ETH"
+    },
+    "CTXCETH": {
+      "base_currency": "CTXC",
+      "quote_currency": "ETH"
+    },
+    "OMGETH": {
+      "base_currency": "OMG",
+      "quote_currency": "ETH"
+    },
+    "GNTETH": {
+      "base_currency": "GNT",
+      "quote_currency": "ETH"
+    },
+    "WINGSETH": {
+      "base_currency": "WINGS",
+      "quote_currency": "ETH"
+    },
+    "CMTETH": {
+      "base_currency": "CMT",
+      "quote_currency": "ETH"
+    },
+    "LOOMETH": {
+      "base_currency": "LOOM",
+      "quote_currency": "ETH"
+    },
+    "LFTETH": {
+      "base_currency": "LFT",
+      "quote_currency": "ETH"
+    },
+    "EOSETH": {
+      "base_currency": "EOS",
+      "quote_currency": "ETH"
+    },
+    "CETBTC": {
+      "base_currency": "CET",
+      "quote_currency": "BTC"
+    },
+    "CARDBTC": {
+      "base_currency": "CARD",
+      "quote_currency": "BTC"
+    },
+    "BTMBTC": {
+      "base_currency": "BTM",
+      "quote_currency": "BTC"
+    },
+    "VETBTC": {
+      "base_currency": "VET",
+      "quote_currency": "BTC"
+    },
+    "CTXCBTC": {
+      "base_currency": "CTXC",
+      "quote_currency": "BTC"
+    },
+    "OMGBTC": {
+      "base_currency": "OMG",
+      "quote_currency": "BTC"
+    },
+    "GNTBTC": {
+      "base_currency": "GNT",
+      "quote_currency": "BTC"
+    },
+    "WINGSBTC": {
+      "base_currency": "WINGS",
+      "quote_currency": "BTC"
+    },
+    "CMTBTC": {
+      "base_currency": "CMT",
+      "quote_currency": "BTC"
+    },
+    "LOOMBTC": {
+      "base_currency": "LOOM",
+      "quote_currency": "BTC"
+    },
+    "LFTBTC": {
+      "base_currency": "LFT",
+      "quote_currency": "BTC"
+    },
+    "CETBCH": {
+      "base_currency": "CET",
+      "quote_currency": "BCH"
+    },
+    "CARDBCH": {
+      "base_currency": "CARD",
+      "quote_currency": "BCH"
+    },
+    "BTMBCH": {
+      "base_currency": "BTM",
+      "quote_currency": "BCH"
+    },
+    "VETBCH": {
+      "base_currency": "VET",
+      "quote_currency": "BCH"
+    },
+    "CTXCBCH": {
+      "base_currency": "CTXC",
+      "quote_currency": "BCH"
+    },
+    "OMGBCH": {
+      "base_currency": "OMG",
+      "quote_currency": "BCH"
+    },
+    "GNTBCH": {
+      "base_currency": "GNT",
+      "quote_currency": "BCH"
+    },
+    "WINGSBCH": {
+      "base_currency": "WINGS",
+      "quote_currency": "BCH"
+    },
+    "CMTBCH": {
+      "base_currency": "CMT",
+      "quote_currency": "BCH"
+    },
+    "LOOMBCH": {
+      "base_currency": "LOOM",
+      "quote_currency": "BCH"
+    },
+    "LFTBCH": {
+      "base_currency": "LFT",
+      "quote_currency": "BCH"
+    },
+    "DOGEBTC": {
+      "base_currency": "DOGE",
+      "quote_currency": "BTC"
+    },
+    "DOGEBCH": {
+      "base_currency": "DOGE",
+      "quote_currency": "BCH"
+    },
+    "QTUMBTC": {
+      "base_currency": "QTUM",
+      "quote_currency": "BTC"
+    },
+    "QTUMBCH": {
+      "base_currency": "QTUM",
+      "quote_currency": "BCH"
+    },
+    
+    "tryusd":{
+      "base_currency": "try",
+      "quote_currency": "usd"
+    },
+    "jpyusd":{
+      "base_currency": "jpy",
+      "quote_currency": "usd"
+    },
+    "mxnusd":{
+      "base_currency": "mxn",
+      "quote_currency": "usd" 
+    },
+    "idrusd":{
+      "base_currency": "idr",
+      "quote_currency": "usd" 
+    },
+    "audusd":{
+      "base_currency": "aud",
+      "quote_currency": "usd"       
+    },
+    "inrusd":{
+      "base_currency": "inr",
+      "quote_currency": "usd"   
+    },
+    "brlusd":{
+      "base_currency": "brl",
+      "quote_currency": "usd"   
+    },
+    "eurusd":{
+      "base_currency": "eur",
+      "quote_currency": "usd"   
+    },
+    "thbusd":{
+      "base_currency": "thb",
+      "quote_currency": "usd"   
+    },
+    "rubusd":{
+      "base_currency": "rub",
+      "quote_currency": "usd"   
+    },
+    "gbpusd":{
+      "base_currency": "gbp",
+      "quote_currency": "usd"   
+    },
+    "cadusd":{
+      "base_currency": "cad",
+      "quote_currency": "usd"   
+    },
+    "uahgbp":{
+      "base_currency": "uah",
+      "quote_currency": "usd"   
+    },
+    "plnusd":{
+      "base_currency": "pln",
+      "quote_currency": "usd"   
+    },
+    "cnyusd":{
+      "base_currency": "cny",
+      "quote_currency": "usd"   
+    },
+    "krwusd":{
+      "base_currency": "krw",
+      "quote_currency": "usd"   
+    },
+    "zarusd":{
+      "base_currency": "zar",
+      "quote_currency": "usd"   
+    },
+    "vndusd":{
+      "base_currency": "vnd",
+      "quote_currency": "usd"   
+    }
+  }
+}

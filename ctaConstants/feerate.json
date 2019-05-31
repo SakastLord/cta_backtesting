@@ -1,0 +1,185 @@
+{
+    "okcoin": 
+    {
+        "spot": 
+        {
+            "taker": 0.00012,
+            "maker": 0.00012
+        },
+        "future": 
+        {
+            "taker": 0.00025,
+            "maker": 0
+        }
+    },
+    "binance": 
+    {
+        "spot": 
+        {
+            "taker": 0.00045,
+            "maker": 0.00045
+        }
+    },
+    "huobi": 
+    {
+        "spot": 
+        {
+            "taker": 0.00025,
+            "maker": 0.00025
+        }
+    },
+    "huobifuture": 
+    {
+        "future": 
+        {
+            "taker": 0.00025,
+            "maker": -0.00005
+        }
+    },
+    "bitfinex": 
+    {
+        "spot": 
+        {
+            "taker": 0.001,
+            "maker": 0
+        }
+    },
+    "bitmex": 
+    {
+        "future": 
+        {
+            "taker": 0.00075,
+            "maker": -0.00025
+        }
+    },
+    "deribit": 
+    {
+        "future": 
+        {
+            "taker": 0.00035,
+            "maker": -0.00025
+        }
+    },
+    "coinex": 
+    {
+        "spot": 
+        {
+            "taker": 0.0,
+            "maker": -0.0
+        }
+    },
+    "kryptono": 
+    {
+        "spot": 
+        {
+            "taker": 0.0,
+            "maker": -0.0
+        }
+    },
+    "gaea": 
+    {
+        "spot": 
+        {
+            "taker": 0.001,
+            "maker": 0.001
+        },
+        "future": 
+        {
+            "taker": 0.0006,
+            "maker": -0.0003
+        }
+    },
+    "luno": 
+    {
+        "spot": 
+        {
+            "taker": 0.005,
+            "maker": 0.0
+        }
+    },
+    "bitso": 
+    {
+        "spot": 
+        {
+            "taker": 0.00195,
+            "maker": 0.0015
+        }
+    },
+    "upbit": 
+    {
+        "spot": 
+        {
+            "taker": 0.0005,
+            "maker": 0.0005
+        }
+    },
+    "cex": 
+    {
+        "spot": 
+        {
+            "taker": 0.0025,
+            "maker": 0.0016
+        }
+    },
+    "btcmarket": 
+    {
+        "spot": 
+        {
+            "taker": 0.001,
+            "maker": 0.001
+        }
+    },
+    "exmo": 
+    {
+        "spot": 
+        {
+            "taker": 0.002,
+            "maker": 0.002
+        }
+    },
+    "quadrigacx": 
+    {
+        "spot": 
+        {
+            "taker": 0.005,
+            "maker": 0.005
+        }
+    },
+    "bittrex": 
+    {
+        "spot": 
+        {
+            "taker": 0.0005
+        }
+    },
+    "bitstamp": 
+    {
+        "spot": 
+        {
+            "taker": 0.00055
+        }
+    },
+    "bithumb": 
+    {
+        "spot": 
+        {
+            "taker": 0.0005
+        }
+    },
+    "bitflyer": 
+    {
+        "future": 
+        {
+            "taker": 0,
+            "maker": 0
+        }
+    },
+    "bitmax": 
+    {
+        "spot": 
+        {
+            "taker": 0.0004,
+            "maker": 0.0004
+        }
+    }
+}
